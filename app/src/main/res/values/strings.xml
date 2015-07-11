@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ProjectZero</string>
+
+    <string name="author">Jim Craig</string>
+    <string name="title">Udacity Android Nanodegree</string>
+    <string name="subTitle">Udacity Android Nanodegree</string>
+    <string name="courseTitle">Android Fundamentals</string>
+
+    <!--
+        Button labels for upcoming projects
+    -->
+    <string name="buttonLabel_project_one">Project One</string>
+    <string name="buttonLabel_project_two">Project Two</string>
+    <string name="buttonLabel_project_three">Project Three</string>
+    <string name="buttonLabel_project_four">Project Four</string>
+    <string name="buttonLabel_project_five">Project Five</string>
+    <string name="buttonLabel_project_six">Project Six</string>
+    <string name="buttonLabel_project_seven">Project Seven</string>
+    <!--
+        Messages used when project button is clicked
+        -->
+    <string name="toast_project_one">Launching Project One</string>
+    <string name="toast_project_two">Launching Project Two</string>
+    <string name="toast_project_three">Launching Project Three</string>
+    <string name="toast_project_four">Launching Project Four</string>
+    <string name="toast_project_five">Launching Project Five</string>
+    <string name="toast_project_six">Launching Project Six</string>
+    <string name="toast_project_seven">Launching Project Seven</string>
+</resources>
